@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/olympic-medals/static/css/main.0b37c2bd.css",
-    "main.js": "/olympic-medals/static/js/main.e6486439.js",
+    "main.js": "/olympic-medals/static/js/main.18b6ad00.js",
     "static/js/787.bbca4e6b.chunk.js": "/olympic-medals/static/js/787.bbca4e6b.chunk.js",
     "index.html": "/olympic-medals/index.html",
     "main.0b37c2bd.css.map": "/olympic-medals/static/css/main.0b37c2bd.css.map",
-    "main.e6486439.js.map": "/olympic-medals/static/js/main.e6486439.js.map",
+    "main.18b6ad00.js.map": "/olympic-medals/static/js/main.18b6ad00.js.map",
     "787.bbca4e6b.chunk.js.map": "/olympic-medals/static/js/787.bbca4e6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b37c2bd.css",
-    "static/js/main.e6486439.js"
+    "static/js/main.18b6ad00.js"
   ]
 }
